@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+.vercel
+relo-e8560-firebase-adminsdk-fbsvc-c02185fdb4.json
+*.log
+.DS_Store
