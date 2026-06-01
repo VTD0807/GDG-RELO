@@ -97,4 +97,4 @@ Relo is designed for an easy, serverless deployment process.
 2. **Frontend (Firebase):** Build the client (`npm run build`) and run `npx firebase deploy --only hosting` to push the React app to Firebase's global CDN.
 
 ---
-*Built for the GDG Applied AI Hackathon*
+*Built for the GDG AGENTIC PREMIER LEAGUE*
